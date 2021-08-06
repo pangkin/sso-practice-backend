@@ -1,4 +1,4 @@
-FROM node:lts
+FROM node:lts-buster
 
 WORKDIR /usr/src/backend
 
